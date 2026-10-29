@@ -26,7 +26,7 @@ Construo produtos do começo ao fim: do backend em Python à interface em React,
 |---|---|---|
 | **[MVP.GG](https://github.com/andreluizcouto/mvp-gg)** · [ao vivo](https://mvpgg.vercel.app) | Análises de League of Legends: perfil por Riot ID, partida ao vivo, tier list por elo e ranking| React · FastAPI · Riot API · GitHub Actions |
 | **[OTTO](https://github.com/andreluizcouto/otto-finance)** · roda no seu PC | Assistente financeiro com IA que roda 100% local: lê extratos em PDF, classifica gastos e acompanha metas | React · TypeScript · FastAPI · SQLite · Claude |
-| **[Pizzaria Ponto de Encontro](https://pontodeencontropizzaria.com.br)** | Site da pizzaria e choperia, com cardápio online (projeto de cliente) | TypeScript |
+| **[Pizzaria Ponto de Encontro](https://ponto-de-encontro.andrecoutolima.workers.dev)** | Site da pizzaria e choperia, com cardápio online (projeto de cliente) | TypeScript |
 
 ---
 
