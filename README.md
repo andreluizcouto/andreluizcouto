@@ -70,7 +70,7 @@ Fica à vontade para explorar os repositórios.
 
 <details>
   <summary>Saiba um pouco mais sobre mim 😄</summary>
-  • 🎮 Jogador de League of Legends (daí o MVP.GG)<br>
+  • 🎮 Jogador de LoL/CS<br>
   • 🛠️ Gosto de tirar ideia do papel e colocar no ar<br>
   • 📚 Sempre aprendendo algo novo<br>
 </details>
