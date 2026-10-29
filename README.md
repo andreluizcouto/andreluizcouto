@@ -52,15 +52,6 @@ Construo produtos do começo ao fim: do backend em Python à interface em React,
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
 
----
-
-## 📈 **GitHub Stats**
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluizcouto&show_icons=true&theme=default&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizcouto&layout=compact&langs_count=7&theme=default"/>
-</div>
-
----
 
 ## 🤝 **Vamos conversar!**
 Precisa de um site, quer trocar ideia sobre um projeto ou só bater um papo tech? **Me chama nas redes ou manda um e-mail!**  
