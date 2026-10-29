@@ -7,7 +7,7 @@
 ---
 
 🎓 **Graduando em Ciência da Computação**  
-Ciência da Computação • 4º período • PUC Minas
+4º período • PUC Minas Poços de Caldas
 
 💻 **Desenvolvedor full stack**  
 Construo produtos do começo ao fim: do backend em Python à interface em React, com IA onde ela resolve um problema de verdade. Também faço sites para negócios locais.
