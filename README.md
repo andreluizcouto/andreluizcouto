@@ -24,7 +24,7 @@ Construo produtos do começo ao fim: do backend em Python à interface em React,
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **[MVP.GG](https://github.com/andreluizcouto/mvp-gg)** · [ao vivo](https://mvpgg.vercel.app) | Coach de League of Legends: perfil por Riot ID, partida ao vivo, tier list por elo e ranking Challenger BR | React · FastAPI · Riot API · GitHub Actions |
+| **[MVP.GG](https://github.com/andreluizcouto/mvp-gg)** · [ao vivo](https://mvpgg.vercel.app) | Análises de League of Legends: perfil por Riot ID, partida ao vivo, tier list por elo e ranking| React · FastAPI · Riot API · GitHub Actions |
 | **[OTTO](https://github.com/andreluizcouto/otto-finance)** · [ao vivo](https://otto-eosin.vercel.app) | Assistente financeiro com IA: lê extratos em PDF, classifica gastos e acompanha metas | React · TypeScript · FastAPI · Supabase · Claude |
 | **[Pizzaria Ponto de Encontro](https://pontodeencontropizzaria.com.br)** | Site da pizzaria e choperia, com cardápio online (projeto de cliente) | TypeScript |
 
