@@ -26,7 +26,7 @@ Construo produtos do começo ao fim: do backend em Python à interface em React,
 |---|---|---|
 | **[MVP.GG](https://github.com/andreluizcouto/mvp-gg)** · [ao vivo](https://mvpgg.vercel.app) | Análises de League of Legends: perfil por Riot ID, partida ao vivo, tier list por elo e ranking| React · FastAPI · Riot API · GitHub Actions |
 | **[OTTO](https://github.com/andreluizcouto/otto-finance)** · roda no seu PC | Assistente financeiro com IA que roda 100% local: lê extratos em PDF, classifica gastos e acompanha metas | React · TypeScript · FastAPI · SQLite · Claude |
-| **[Pizzaria Ponto de Encontro](https://ponto-de-encontro.andrecoutolima.workers.dev)** | Site da pizzaria e choperia, com cardápio online (projeto de cliente) | TypeScript |
+| **[Pizzaria Ponto de Encontro](https://ponto-de-encontro.andrecoutolima.workers.dev)** | Site da pizzaria e choperia, com cardápio online e animações (projeto de cliente) | React · TypeScript · Tailwind · GSAP · Cloudflare Workers |
 
 ---
 
@@ -48,6 +48,8 @@ Construo produtos do começo ao fim: do backend em Python à interface em React,
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black"/>
 </p>
 
 
